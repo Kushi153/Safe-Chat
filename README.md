@@ -92,4 +92,10 @@ Public `cyberbullying-classification` dataset by andrewmvd (Kaggle, CC BY 4.0) �
 
 ---
 
+🫵 site is on live
+https://safe-chat.streamlit.app
+
+
+-------
+
 **Built by Buddha Ravi Teja** · [LinkedIn](https://www.linkedin.com/in/raviteja-buddha-7a9279244) · [GitHub](https://github.com/Kushi153) · [WhatsApp](https://wa.me/919703504923)
